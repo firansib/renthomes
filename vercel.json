@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/InteractiveForm",
+      "destination": "/InteractiveForm/index.html"
+    },
+    {
+      "source": "/InteractiveForm/",
+      "destination": "/InteractiveForm/index.html"
+    },
+    {
+      "source": "/RentHome",
+      "destination": "/RentHome/index.html"
+    },
+    {
+      "source": "/RentHome/",
+      "destination": "/RentHome/index.html"
+    }
+  ]
+}
